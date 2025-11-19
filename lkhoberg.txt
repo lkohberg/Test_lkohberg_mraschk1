@@ -2,3 +2,5 @@ Benutzte befehle:
 git commit
 git add
 git clone
+git push 
+git pull
