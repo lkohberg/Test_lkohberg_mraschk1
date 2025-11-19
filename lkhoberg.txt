@@ -1,0 +1,4 @@
+Benutzte befehle:
+git commit
+git add
+git clone
