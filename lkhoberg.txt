@@ -4,3 +4,8 @@ git add
 git clone
 git push 
 git pull
+
+Einer der beiden pushes war schneller und blockiert einen der beide.
+
+Das kann gelöst werden indem der langsamere vor dem pushen nochmal pullt.
+
