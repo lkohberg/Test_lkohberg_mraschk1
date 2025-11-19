@@ -5,3 +5,7 @@ git add
 git commit
 git pull
 git push
+
+Einer der beiden Pushes war schnell, dadurch konnte der ander push nicht gepusht werden und somit gibt es nur eine der beiden Änderungen.
+
+Derjenige der den push nicht durchbekommen hat muss die dateinen nocheinmal pullen, seine Änderungen wieder hinzufügen und dann alles wieder commiten und pushen.
